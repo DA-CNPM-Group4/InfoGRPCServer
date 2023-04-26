@@ -1,0 +1,762 @@
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\appsettings.Development.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\appsettings.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Azure.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Azure.Identity.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Google.Protobuf.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Client.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Client.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.ClientFactory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Humanizer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.SqlServer.Server.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Mono.TextTemplating.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.CodeDom.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Memory.Data.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libgrpc_csharp_ext.x64.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.CSharp.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.VisualBasic.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.VisualBasic.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.Registry.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.AppContext.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Buffers.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Concurrent.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Immutable.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.NonGeneric.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Specialized.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.Annotations.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.DataAnnotations.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.TypeConverter.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Configuration.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Console.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.DataSetExtensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Contracts.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Debug.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Process.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.StackTrace.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Tools.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.TraceSource.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Tracing.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Dynamic.Runtime.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Formats.Asn1.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.Calendars.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.Brotli.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.FileSystem.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.ZipFile.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.AccessControl.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.Watcher.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.IsolatedStorage.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.MemoryMappedFiles.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipes.AccessControl.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipes.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Expressions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Parallel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Queryable.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Memory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Http.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Http.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.HttpListener.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Mail.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.NameResolution.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.NetworkInformation.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Ping.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Quic.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Requests.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Security.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.ServicePoint.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Sockets.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebClient.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebHeaderCollection.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebProxy.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebSockets.Client.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebSockets.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Numerics.Vectors.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Numerics.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ObjectModel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.CoreLib.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.DataContractSerialization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Uri.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Xml.Linq.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.DispatchProxy.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.Lightweight.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Metadata.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.TypeExtensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.Reader.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.ResourceManager.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.Writer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Handles.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.InteropServices.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Intrinsics.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Loader.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Numerics.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Formatters.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.AccessControl.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Claims.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Algorithms.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Cng.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Csp.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Encoding.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Principal.Windows.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Principal.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.SecureString.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ServiceModel.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ServiceProcess.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.CodePages.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.RegularExpressions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Channels.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Overlapped.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Dataflow.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Parallel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Thread.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.ThreadPool.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Timer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Transactions.Local.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Transactions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ValueTuple.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Web.HttpUtility.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Windows.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.Linq.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.ReaderWriter.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.Serialization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XDocument.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XPath.XDocument.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XPath.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XmlDocument.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XmlSerializer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\WindowsBase.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\mscorlib.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\netstandard.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cors.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Identity.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Localization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Razor.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Routing.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Session.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Features.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Http.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Identity.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Localization.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.ObjectPool.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.WebEncoders.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.JSInterop.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Net.Http.Headers.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.EventLog.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipelines.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Pkcs.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Xml.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\createdump
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Globalization.Native.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.IO.Compression.Native.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Native.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Net.Security.Native.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libclrjit.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libcoreclr.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libcoreclrtraceptprovider.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libdbgshim.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libhostfxr.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libhostpolicy.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libmscordaccore.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\libmscordbi.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.InfoServerGRPC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\scopedcss\bundle\InfoServerGRPC.styles.css
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.CopyComplete
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\refint\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.genruntimeconfig.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Release\net6.0\linux-x64\ref\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\appsettings.Development.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\appsettings.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Azure.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Azure.Identity.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Google.Protobuf.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.AspNetCore.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Client.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Client.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.ClientFactory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Humanizer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Logging.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.IdentityModel.Tokens.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.SqlServer.Server.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Mono.TextTemplating.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Npgsql.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.CodeDom.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Configuration.ConfigurationManager.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Memory.Data.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Permissions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libgrpc_csharp_ext.x64.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.CSharp.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.VisualBasic.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.VisualBasic.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Win32.Registry.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.AppContext.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Buffers.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Concurrent.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Immutable.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.NonGeneric.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.Specialized.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Collections.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.Annotations.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.DataAnnotations.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.TypeConverter.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ComponentModel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Configuration.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Console.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.DataSetExtensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Data.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Contracts.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Debug.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Process.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.StackTrace.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Tools.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.TraceSource.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.Tracing.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Drawing.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Dynamic.Runtime.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Formats.Asn1.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.Calendars.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Globalization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.Brotli.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.FileSystem.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.ZipFile.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Compression.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.AccessControl.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.Watcher.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.FileSystem.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.IsolatedStorage.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.MemoryMappedFiles.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipes.AccessControl.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipes.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Expressions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Parallel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.Queryable.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Linq.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Memory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Http.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Http.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.HttpListener.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Mail.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.NameResolution.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.NetworkInformation.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Ping.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Quic.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Requests.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Security.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.ServicePoint.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.Sockets.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebClient.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebHeaderCollection.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebProxy.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebSockets.Client.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.WebSockets.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Net.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Numerics.Vectors.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Numerics.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ObjectModel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.CoreLib.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.DataContractSerialization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Uri.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Xml.Linq.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Private.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.DispatchProxy.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.Lightweight.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Emit.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Metadata.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.TypeExtensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Reflection.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.Reader.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.ResourceManager.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Resources.Writer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Handles.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.InteropServices.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Intrinsics.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Loader.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Numerics.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Formatters.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.Serialization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Runtime.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.AccessControl.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Claims.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Algorithms.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Cng.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Csp.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Encoding.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Principal.Windows.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Principal.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.SecureString.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ServiceModel.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ServiceProcess.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.CodePages.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.Encoding.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Text.RegularExpressions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Channels.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Overlapped.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Dataflow.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.Parallel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Tasks.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Thread.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.ThreadPool.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.Timer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Threading.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Transactions.Local.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Transactions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.ValueTuple.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Web.HttpUtility.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Windows.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.Linq.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.ReaderWriter.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.Serialization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XDocument.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XPath.XDocument.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XPath.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XmlDocument.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.XmlSerializer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\WindowsBase.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\mscorlib.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\netstandard.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Antiforgery.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authentication.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Authorization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Forms.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Server.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Components.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cors.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.DataProtection.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Diagnostics.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HostFiltering.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Hosting.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Connections.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Features.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.Results.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Http.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpLogging.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Identity.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Localization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Metadata.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Mvc.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Razor.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Rewrite.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Routing.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.IIS.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.Session.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.SignalR.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.StaticFiles.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.WebSockets.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.WebUtilities.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.AspNetCore.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Binder.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Ini.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Configuration.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Features.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Hosting.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Http.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Identity.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Identity.Stores.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Localization.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Configuration.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Console.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventLog.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.EventSource.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.ObjectPool.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Extensions.WebEncoders.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.JSInterop.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\Microsoft.Net.Http.Headers.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Diagnostics.EventLog.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.IO.Pipelines.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Pkcs.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\System.Security.Cryptography.Xml.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\createdump
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Globalization.Native.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.IO.Compression.Native.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Native.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Net.Security.Native.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libSystem.Security.Cryptography.Native.OpenSsl.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libclrjit.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libcoreclr.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libcoreclrtraceptprovider.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libdbgshim.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libhostfxr.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libhostpolicy.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libmscordaccore.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\libmscordbi.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Release\net6.0\linux-x64\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.InfoServerGRPC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.build.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildMultiTargeting.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets\msbuild.buildTransitive.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.pack.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.build.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\staticwebassets.development.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\scopedcss\bundle\InfoServerGRPC.styles.css
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.csproj.CopyComplete
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\refint\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\InfoServerGRPC.genruntimeconfig.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Release\net6.0\linux-x64\ref\InfoServerGRPC.dll

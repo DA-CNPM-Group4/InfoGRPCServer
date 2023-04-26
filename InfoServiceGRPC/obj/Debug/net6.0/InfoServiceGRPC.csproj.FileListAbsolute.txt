@@ -1,0 +1,24 @@
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.deps.json
+D:\Code\InfoServerGRPC\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\refint\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServiceGRPC\obj\Debug\net6.0\ref\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.deps.json
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\bin\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\refint\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServiceGRPC\obj\Debug\net6.0\ref\InfoServiceGRPC.dll

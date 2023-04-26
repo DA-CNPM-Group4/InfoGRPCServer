@@ -1,0 +1,200 @@
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\appsettings.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.exe
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Azure.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Core.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Client.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Humanizer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\bin\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.InfoServerGRPC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.build.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InfoServerGRPC.props
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\scopedcss\bundle\InfoServerGRPC.styles.css
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.CopyComplete
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\refint\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.genruntimeconfig.cache
+D:\Code\InfoServerGRPC\InfoServerGRPC\obj\Debug\net6.0\ref\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\appsettings.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.exe
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Azure.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Azure.Identity.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Core.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Client.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Client.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Humanizer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Npgsql.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.CodeDom.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Text.Json.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\bin\Debug\net6.0\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.AssemblyInfoInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.AssemblyInfo.cs
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.InfoServerGRPC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.build.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.InfoServerGRPC.props
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\scopedcss\bundle\InfoServerGRPC.styles.css
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.csproj.CopyComplete
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\refint\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\InfoServerGRPC.genruntimeconfig.cache
+D:\Code\InfoServerGRPC - Postgre\InfoServerGRPC\obj\Debug\net6.0\ref\InfoServerGRPC.dll

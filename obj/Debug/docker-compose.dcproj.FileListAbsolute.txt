@@ -1,0 +1,59 @@
+D:\Code\InfoServerGRPC\bin\Debug\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC\bin\Debug\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC\bin\Debug\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC\bin\Debug\appsettings.Development.json
+D:\Code\InfoServerGRPC\bin\Debug\appsettings.json
+D:\Code\InfoServerGRPC\bin\Debug\InfoServerGRPC.exe
+D:\Code\InfoServerGRPC\bin\Debug\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC\bin\Debug\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC\bin\Debug\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\InfoServerGRPC\bin\Debug\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC\bin\Debug\Google.Protobuf.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Code\InfoServerGRPC\bin\Debug\Microsoft.Identity.Client.dll
+D:\Code\InfoServerGRPC\bin\Debug\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC\bin\Debug\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC\obj\Debug\docker-compose.dcproj.CopyComplete
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\appsettings.Development.json
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\appsettings.json
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServerGRPC.deps.json
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServerGRPC.runtimeconfig.json
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServerGRPC.exe
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServerGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Grpc.AspNetCore.Server.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServiceGRPC.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Grpc.Core.Api.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Grpc.Net.Common.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Google.Protobuf.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\Npgsql.dll
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServerGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\bin\Debug\InfoServiceGRPC.pdb
+D:\Code\InfoServerGRPC - Postgre\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Code\InfoServerGRPC - Postgre\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Code\InfoServerGRPC - Postgre\obj\Debug\docker-compose.dcproj.CopyComplete

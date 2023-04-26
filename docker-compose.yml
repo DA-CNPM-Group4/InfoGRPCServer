@@ -1,0 +1,16 @@
+version: '3.4'
+
+networks:
+    backend:
+
+services:
+  infoservergrpc:
+    container_name: info-grpc
+    image: ${DOCKER_REGISTRY-}infoservergrpc
+    build:
+      context: .
+      dockerfile: InfoServerGRPC/Dockerfile
+    ports:
+        - 8004:80
+    networks:
+        - backend

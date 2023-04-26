@@ -1,0 +1,23 @@
+name: dockercompose13359953832919528189
+services:
+  infoservergrpc:
+    build:
+      context: D:\Code\InfoServerGRPC
+      dockerfile: InfoServerGRPC/Dockerfile
+    container_name: info-grpc
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: infoservergrpc
+    networks:
+      backend: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    - mode: ingress
+      target: 80
+      published: "8004"
+      protocol: tcp
+networks:
+  backend:
+    name: dockercompose13359953832919528189_backend

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "43Y2rq0e6u04matsz7nWYX2u9cKNlNkB050GlY5+LYA=",
+  "Source": "InfoServerGRPC",
+  "BasePath": "_content/InfoServerGRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
